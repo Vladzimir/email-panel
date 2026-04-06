@@ -1,0 +1,11 @@
+{
+    "fields": {
+        "emailPanelFilter": "Фільтр листів"
+    },
+    "options": {
+        "emailPanelFilter": {
+            "all": "Усі листи",
+            "unread": "Лише непрочитані"
+        }
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "labels": {
+        "emailPanelTitle": "Листи",
+        "emailPanelUnreadTitle": "Листи ({count} непрочитаних)",
+        "emailPanelSettingsTitle": "Налаштування панелі листів",
+        "emailPanelFilter": "Показувати листи",
+        "emailPanelFilterAll": "Усі листи",
+        "emailPanelFilterUnread": "Лише непрочитані"
+    }
+}
