@@ -19,6 +19,10 @@ This extension enhances EspoCRM by adding an email panel button to the top navig
 - Settings page to configure whether to show all emails or unread only.
 - Respects EspoCRM ACL — only visible to users with Email read access.
 
+  <img width="921" height="573" alt="image" src="https://github.com/user-attachments/assets/73f2de8a-5af0-49db-a097-fc6bab836173" />
+
+<img width="1144" height="411" alt="image" src="https://github.com/user-attachments/assets/9834853f-1a6e-4bdc-af02-7edce9015088" />
+
 ## Requires
 
 - EspoCRM >= 9.1.0
