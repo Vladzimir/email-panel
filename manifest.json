@@ -1,0 +1,14 @@
+{
+    "name": "Email Panel",
+    "description": "Extension that adds a panel to read emails on the top nav bar.",
+    "author": "Andrew Fontana",
+    "php": [
+        ">=8.2"
+    ],
+    "acceptableVersions": [
+        ">=9.1.0"
+    ],
+    "version": "1.0.0",
+    "skipBackup": true,
+    "releaseDate": "2026-04-06"
+}

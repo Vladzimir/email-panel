@@ -1,0 +1,11 @@
+{
+    "fields": {
+        "emailPanelFilter": "Mostra email"
+    },
+    "options": {
+        "emailPanelFilter": {
+            "all": "Tutte le email",
+            "unread": "Solo non lette"
+        }
+    }
+}

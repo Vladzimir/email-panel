@@ -1,0 +1,9 @@
+{
+    "fields": {
+        "emailPanelFilter": {
+            "type": "enum",
+            "options": ["all", "unread"],
+            "default": "all"
+        }
+    }
+}

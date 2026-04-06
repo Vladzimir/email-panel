@@ -1,0 +1,16 @@
+{
+    "items": {
+        "emailPanel": {
+            "view": "email-panel:views/site/navbar/email-panel",
+            "class": "dropdown hidden-xs email-panel-container",
+            "order": 7,
+            "disabled": false,
+            "accessDataList": [
+                {
+                    "action": "read",
+                    "scope": "Email"
+                }
+            ]
+        }
+    }
+}

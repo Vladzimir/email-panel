@@ -1,0 +1,10 @@
+{
+    "labels": {
+        "emailPanelTitle": "E-mails",
+        "emailPanelUnreadTitle": "E-mails ({count} não lidos)",
+        "emailPanelSettingsTitle": "Configurações do painel de e-mail",
+        "emailPanelFilter": "Mostrar e-mails",
+        "emailPanelFilterAll": "Todos os e-mails",
+        "emailPanelFilterUnread": "Somente não lidos"
+    }
+}

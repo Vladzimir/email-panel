@@ -1,0 +1,10 @@
+{
+    "labels": {
+        "emailPanelTitle": "Email",
+        "emailPanelUnreadTitle": "Email ({count} non lette)",
+        "emailPanelSettingsTitle": "Impostazioni pannello email",
+        "emailPanelFilter": "Mostra email",
+        "emailPanelFilterAll": "Tutte le email",
+        "emailPanelFilterUnread": "Solo non lette"
+    }
+}

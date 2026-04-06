@@ -1,0 +1,1 @@
+<h3>{{translate 'emailPanelSettingsTitle' category='labels'}}</h3>
